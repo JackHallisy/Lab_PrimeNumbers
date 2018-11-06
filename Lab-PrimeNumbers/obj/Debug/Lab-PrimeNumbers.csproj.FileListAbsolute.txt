@@ -1,0 +1,7 @@
+C:\CC6\aspnet\Labs\Lab-PrimeNumbers\Lab-PrimeNumbers\bin\Debug\Lab-PrimeNumbers.exe.config
+C:\CC6\aspnet\Labs\Lab-PrimeNumbers\Lab-PrimeNumbers\bin\Debug\Lab-PrimeNumbers.exe
+C:\CC6\aspnet\Labs\Lab-PrimeNumbers\Lab-PrimeNumbers\bin\Debug\Lab-PrimeNumbers.pdb
+C:\CC6\aspnet\Labs\Lab-PrimeNumbers\Lab-PrimeNumbers\obj\Debug\Lab-PrimeNumbers.csprojAssemblyReference.cache
+C:\CC6\aspnet\Labs\Lab-PrimeNumbers\Lab-PrimeNumbers\obj\Debug\Lab-PrimeNumbers.csproj.CoreCompileInputs.cache
+C:\CC6\aspnet\Labs\Lab-PrimeNumbers\Lab-PrimeNumbers\obj\Debug\Lab-PrimeNumbers.exe
+C:\CC6\aspnet\Labs\Lab-PrimeNumbers\Lab-PrimeNumbers\obj\Debug\Lab-PrimeNumbers.pdb
